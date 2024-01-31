@@ -11,8 +11,8 @@ The main goal of this project is to achieve accurate head position detection by 
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/vilhess/FaceDetection.git
+cd FaceDetection
 ```
 2. Install the required packages:
 
